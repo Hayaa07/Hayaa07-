@@ -8,6 +8,7 @@ Alongside my work, I'm developing my data analytics skills through my apprentice
 I'm also exploring GitHub, so this profile is a record of what I'm learning, building and improving along the way.
 
 Tools I'm working with
+
 1)Power Platform - using Power Apps to design and build apps
 
 2)SharePoint - working with data and supporting digital solutions
@@ -21,7 +22,8 @@ Tools I'm working with
 6)Python - developing my skills through my apprenticeship and exploring how I can use it in my work
 
 Fun facts:
-*Bunnies are my favourite animal
+
+*My favourite animal is a rabbit
 
 *My favourite drink is basically anything with Biscoff in it
 
