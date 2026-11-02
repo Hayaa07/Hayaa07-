@@ -7,7 +7,7 @@ Alongside my work, I'm developing my data analytics skills through my apprentice
 
 I'm also exploring GitHub, so this profile is a record of what I'm learning, building and improving along the way.
 
-Tools I'm working with
+Tools I'm working with:
 
 1)Power Platform - using Power Apps to design and build apps
 
@@ -30,5 +30,6 @@ Fun facts:
 *I love knitting
 
 Get in touch
+
 You can reach me through my work email:
 hayaa.hamza@wsp.com  
