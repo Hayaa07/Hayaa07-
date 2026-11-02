@@ -18,7 +18,9 @@ Excel - working with and organising data
 Power BI - currently learning and developing my reporting skills
 SQL - developing my skills through my apprenticeship and starting to apply them in practice
 Python - developing my skills through my apprenticeship and exploring how I can use it in my work
-Fun facts
+
+Fun facts:
+
 Bunnies are my favourite animal
 My favourite drink is basically anything with Biscoff in it
 I love knitting
